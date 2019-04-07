@@ -14,5 +14,5 @@ It consists of various Functions :
 
 - **u8 DIO_u8SetPortnValue(u8 Copy_u8PortNb, u16 Copy_u8PortValue)** : this function set specific value on specific port 
 
-- ** NOTE ** : all function return error state 
+- **NOTE** : all functions return error state 
 
